@@ -1,0 +1,15 @@
+{
+  "transaction hash": "Transaction identifier — a string that uniquely identifies a transaction on the blockchain.",
+  "ledger": "Ledger — a block/page of the blockchain record.",
+  "fee": "Fee — amount paid to the blockchain network to process the transaction.",
+  "memo": "Memo — optional text attached to the transaction.",
+  "status": "Status — the transaction outcome as reported by the source (success/failed).",
+  "amount": "Amount — quantity of the asset transferred.",
+  "asset": "Asset — the currency or token (e.g. PI).",
+  "network": "Network — testnet or mainnet.",
+  "source": "Source — where the data came from.",
+  "success": "Success — the source reported success.",
+  "failed": "Failed — the source reported failure.",
+  "hash": "Hash — unique identifier of the transaction.",
+  "createdAt": "Created at — time the transaction was recorded (if provided)."
+}

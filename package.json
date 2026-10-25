@@ -1,0 +1,32 @@
+{
+  "name": "pitrace",
+  "version": "0.1.0",
+  "description": "Explain Pi (and Stellar-like) transactions from supplied data. Evidence-first. No guessing.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "pitrace": "bin/pitrace.js"
+  },
+  "exports": {
+    ".": "./src/index.js",
+    "./core": "./src/core/index.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "explain": "node bin/pitrace.js"
+  },
+  "keywords": [
+    "pi-network",
+    "pi",
+    "transaction",
+    "explainer",
+    "blockchain",
+    "evidence-first",
+    "read-only"
+  ],
+  "author": "aybvip",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

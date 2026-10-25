@@ -1,0 +1,12 @@
+{
+  "hash": "example-transaction-hash-001",
+  "status": "success",
+  "amount": "12.5",
+  "asset": "PI",
+  "fee": "0.01",
+  "network": "testnet",
+  "ledger": "12345",
+  "memo": "demo payment",
+  "source": "fixture",
+  "createdAt": "2026-01-01T00:00:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "hash": "example-failed-tx-003",
+  "status": "failed",
+  "amount": "5.0",
+  "asset": "PI",
+  "fee": "0.02",
+  "network": "testnet",
+  "source": "fixture"
+}
